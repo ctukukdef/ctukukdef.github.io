@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "a9deec9580c0d3589d39a7ab",
+  "owner": "ctukukdef",
+  "repo": "ctukukdef.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "3362910985c253f564a03f13",
+      "a": "速蛙云(fasterfrog)",
+      "b": "网络加速服务",
+      "entity": "速蛙云(fasterfrog)",
+      "brand": "网络加速服务",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1bf65f223d56718235aa02a5d241422c35d1f71a01436d5ff60cbdd7e65adb5e",
+      "content": {
+        "primary_entity": "速蛙云(fasterfrog)",
+        "keyword1": "速蛙云(fasterfrog)",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选用对应客户端，手机、桌面和路由器各有适配版本，安装前确认系统版本要求。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先确定常用设备与流量需求，再对照套餐权益挑选合适的订阅周期。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺心",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，按流量、设备数量和线路类型区分，适合个人、家庭及小型团队根据实际用量灵活选择。",
+          "AI_FEATURES_INTRO": "从套餐配置、设备数量与订阅周期三个角度了解速蛙云的使用方式。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版和团队版在流量、设备数与线路类型上依次提升，可按月付或年付方式订阅。",
+          "AI_FEATURE_TEXT_2": "不同套餐支持的同时在线设备数量不同，从三台到二十台，覆盖手机、电脑和路由器等常用终端。",
+          "AI_FEATURE_TEXT_3": "旗舰版和团队版提供更丰富的节点线路与高带宽资源，适合对连接质量有更高要求的场景。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TITLE_2": "设备数量灵活",
+          "AI_FEATURE_TITLE_3": "线路层级分明",
+          "AI_GUIDE_INTRO": "了解速蛙云的使用流程，从选择服务到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "速蛙云(fasterfrog)提供网络加速服务，覆盖基础版、旗舰版和团队版三档订阅，按流量、设备数量和线路类型区分，帮助个人与团队根据实际用量选择合适方案。",
+          "AI_HERO_SUBTITLE": "按需选套餐，轻松连更多设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "设备数量随套餐灵活扩展",
+          "AI_HIGHLIGHT_3": "支持月付与年付两种周期",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，从基础版、旗舰版或团队版中选择合适的订阅方案。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本和客户端适配要求，确保安装环境满足条件。",
+          "AI_STEP_TEXT_3": "按照对应客户端的文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "速蛙云加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐周期与加速场景。",
+          "AI_FAQ_QUESTION_1": "速蛙云不同套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "三档套餐在流量额度、同时在线设备数量与线路类型上有区分。基础版满足轻度使用，旗舰版增加流量与专线优化，团队版面向多设备高流量场景。",
+          "AI_FAQ_QUESTION_2": "月付和年付应该怎么选？",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验或使用频率不固定的情况，年付适合长期稳定使用。各档套餐都提供两种周期，按实际使用计划选择即可。",
+          "AI_FAQ_QUESTION_3": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持三台设备同时在线，旗舰版为五台，团队版为二十台。具体以所选套餐所列权益为准，超出数量需要升级档位。",
+          "AI_FAQ_QUESTION_4": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再依照客户端文档说明导入订阅信息。不同系统的导入方式略有差异，按文档步骤操作即可完成。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多人协作或多设备同时使用的场景，提供较大的流量额度与专属节点，并支持定制路由与专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c93639c8475d13bc61e16752f9ead5cc11ec55a9a0e0cb3559bc66ff62b21e41",
+    "sitemap.xml": "42c5ce25e6580c6cee84d999fbfb54253e6e53d2458d5987d06dc9bb6a1453ef",
+    "robots.txt": "c6b94d020702858fbf7b0b520747d12da6cf274b2d9a03c41aba72c718b37024",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "adc48af6993b20d4209e418195786d5ffe15f552126cbd6f69590b70cd157264"
+}
